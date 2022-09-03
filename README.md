@@ -1,5 +1,5 @@
 # BPSD-Polar
-Belief propagation SD decoding of Gallager LDPC codes with parity checks of weight 1, 2 and 4 plus Polar precoding
+Belief propagation soft desicion decoding of Gallager LDPC codes with parity checks of weight 1, 2 and 4 plus Polar precoding
 This code is the result of three papers:
 I. Dumer and N. Gharavi, "Codes for high-noise memoryless channels," 2020 International Symposium on Information Theory and Its Applications (ISITA), 2020, pp. 101-105.
 I. Dumer and N. Gharavi, "Codes approaching the Shannon limit with polynomial complexity per information bit," 2021 IEEE International Symposium on Information Theory (ISIT), 2021, pp. 238-243, doi: 10.1109/ISIT45174.2021.9517788.
